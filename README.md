@@ -1,3 +1,3 @@
 <div align='center'>
-  <img src="https://github.com/devkyoung2/devkyoung2/assets/79066587/4373fcd6-2642-46b2-b15e-4bbe9322a5e9"  width="261" height="200"/>
+  <img src='https://github.com/user-attachments/assets/3a2f7d68-bb7c-4a80-b529-a0cb2aa5125b'/>
 </div>
