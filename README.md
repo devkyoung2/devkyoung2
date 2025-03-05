@@ -1,4 +1,11 @@
+
 <div align='center'>
-  <img src='https://github.com/user-attachments/assets/3a2f7d68-bb7c-4a80-b529-a0cb2aa5125b' width='400px' click/>
+   <a href="https://solved.ac/chestnut1044/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devkyoung2" alt="Solved.ac Profile" />
+  </a>
+
+  <br>
+  <br>
+
   <p><a href='https://github.com/kyoung2log'>✏️</a></p>
 </div>
